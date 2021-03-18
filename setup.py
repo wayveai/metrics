@@ -40,7 +40,7 @@ setup(
     keywords=['deep learning', 'machine learning', 'pytorch', 'metrics', 'AI'],
     python_requires='>=3.6',
     setup_requires=[],
-    install_requires=_load_requirements(PATH_ROOT),
+    #  install_requires=_load_requirements(PATH_ROOT),
     project_urls={
         "Bug Tracker": "https://github.com/PyTorchLightning/torchmetrics/issues",
         "Documentation": "https://torchmetrics.rtfd.io/en/latest/",
